@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lope-lab/static/css/main.63d80a96.chunk.css",
+    "main.js": "/lope-lab/static/js/main.d907e828.chunk.js",
+    "main.js.map": "/lope-lab/static/js/main.d907e828.chunk.js.map",
+    "runtime-main.js": "/lope-lab/static/js/runtime-main.9c7926b6.js",
+    "runtime-main.js.map": "/lope-lab/static/js/runtime-main.9c7926b6.js.map",
+    "static/css/2.150d169a.chunk.css": "/lope-lab/static/css/2.150d169a.chunk.css",
+    "static/js/2.29ff2df2.chunk.js": "/lope-lab/static/js/2.29ff2df2.chunk.js",
+    "static/js/2.29ff2df2.chunk.js.map": "/lope-lab/static/js/2.29ff2df2.chunk.js.map",
+    "static/js/3.867781dc.chunk.js": "/lope-lab/static/js/3.867781dc.chunk.js",
+    "static/js/3.867781dc.chunk.js.map": "/lope-lab/static/js/3.867781dc.chunk.js.map",
+    "index.html": "/lope-lab/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/lope-lab/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.63d80a96.chunk.css.map": "/lope-lab/static/css/main.63d80a96.chunk.css.map",
+    "static/js/2.29ff2df2.chunk.js.LICENSE.txt": "/lope-lab/static/js/2.29ff2df2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c7926b6.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.29ff2df2.chunk.js",
+    "static/css/main.63d80a96.chunk.css",
+    "static/js/main.d907e828.chunk.js"
+  ]
+}
