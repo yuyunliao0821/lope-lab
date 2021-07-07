@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lope-lab/static/css/main.63d80a96.chunk.css",
-    "main.js": "/lope-lab/static/js/main.d65c2da5.chunk.js",
-    "main.js.map": "/lope-lab/static/js/main.d65c2da5.chunk.js.map",
+    "main.js": "/lope-lab/static/js/main.d45d463a.chunk.js",
+    "main.js.map": "/lope-lab/static/js/main.d45d463a.chunk.js.map",
     "runtime-main.js": "/lope-lab/static/js/runtime-main.9c7926b6.js",
     "runtime-main.js.map": "/lope-lab/static/js/runtime-main.9c7926b6.js.map",
     "static/css/2.150d169a.chunk.css": "/lope-lab/static/css/2.150d169a.chunk.css",
@@ -14,13 +14,36 @@
     "static/css/2.150d169a.chunk.css.map": "/lope-lab/static/css/2.150d169a.chunk.css.map",
     "static/css/main.63d80a96.chunk.css.map": "/lope-lab/static/css/main.63d80a96.chunk.css.map",
     "static/js/2.29ff2df2.chunk.js.LICENSE.txt": "/lope-lab/static/js/2.29ff2df2.chunk.js.LICENSE.txt",
-    "static/media/gears.995e6889.png": "/lope-lab/static/media/gears.995e6889.png"
+    "static/media/amber.242e8968.png": "/lope-lab/static/media/amber.242e8968.png",
+    "static/media/andrea.83739092.png": "/lope-lab/static/media/andrea.83739092.png",
+    "static/media/ben.051490b9.png": "/lope-lab/static/media/ben.051490b9.png",
+    "static/media/bk.56b4dc26.png": "/lope-lab/static/media/bk.56b4dc26.png",
+    "static/media/brain.02d8f5a0.png": "/lope-lab/static/media/brain.02d8f5a0.png",
+    "static/media/chi-var.a49cf080.png": "/lope-lab/static/media/chi-var.a49cf080.png",
+    "static/media/chiyao.24721314.png": "/lope-lab/static/media/chiyao.24721314.png",
+    "static/media/cwm.70d5bac5.png": "/lope-lab/static/media/cwm.70d5bac5.png",
+    "static/media/cwn.4bcb3dba.png": "/lope-lab/static/media/cwn.4bcb3dba.png",
+    "static/media/debby.de803ae1.png": "/lope-lab/static/media/debby.de803ae1.png",
+    "static/media/derek.bb2fcdc3.png": "/lope-lab/static/media/derek.bb2fcdc3.png",
+    "static/media/don.0609894d.png": "/lope-lab/static/media/don.0609894d.png",
+    "static/media/feiyang.cb813fbe.png": "/lope-lab/static/media/feiyang.cb813fbe.png",
+    "static/media/gears.995e6889.png": "/lope-lab/static/media/gears.995e6889.png",
+    "static/media/hsinyu.76060f53.jpeg": "/lope-lab/static/media/hsinyu.76060f53.jpeg",
+    "static/media/jessy.cb5c2307.png": "/lope-lab/static/media/jessy.cb5c2307.png",
+    "static/media/joy.7b45907f.png": "/lope-lab/static/media/joy.7b45907f.png",
+    "static/media/nana.fae4d565.png": "/lope-lab/static/media/nana.fae4d565.png",
+    "static/media/pin-er.fbc25d97.jpg": "/lope-lab/static/media/pin-er.fbc25d97.jpg",
+    "static/media/ptt_corp.ee9b33b2.png": "/lope-lab/static/media/ptt_corp.ee9b33b2.png",
+    "static/media/shukai.cf913b5d.png": "/lope-lab/static/media/shukai.cf913b5d.png",
+    "static/media/yongfu.584080e6.jpg": "/lope-lab/static/media/yongfu.584080e6.jpg",
+    "static/media/yu-shiang.6cefaac0.png": "/lope-lab/static/media/yu-shiang.6cefaac0.png",
+    "static/media/yulin.f0dccb98.png": "/lope-lab/static/media/yulin.f0dccb98.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9c7926b6.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.29ff2df2.chunk.js",
     "static/css/main.63d80a96.chunk.css",
-    "static/js/main.d65c2da5.chunk.js"
+    "static/js/main.d45d463a.chunk.js"
   ]
 }
