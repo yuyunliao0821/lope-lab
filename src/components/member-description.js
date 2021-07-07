@@ -62,11 +62,11 @@ const MemberDescription = () => {
                     mail = "mailto:r08142002@ntu.edu.tw"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc="../images/members/andrea.png" name="石晴方｜碩二" text="計算語言學、語料庫語言學、句法學、聲韻學、心理語言學"
+                    <MemberCard imgSrc="../images/members/andrea.png" name="石晴方｜碩三" text="計算語言學、語料庫語言學、句法學、聲韻學、心理語言學"
                     mail = "mailto:r08142004@ntu.edu.tw"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc="../images/members/feiyang.png" name="張飛揚｜碩二" text="計算語言學、構詞學"
+                    <MemberCard imgSrc="../images/members/feiyang.png" name="張飛揚｜碩三" text="計算語言學、構詞學"
                     mail = "mailto:r08142009@ntu.edu.tw"/>
                 </Col>
                 <Col>
