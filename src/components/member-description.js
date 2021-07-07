@@ -70,7 +70,7 @@ const MemberDescription = () => {
                     mail = "mailto:r08142009@ntu.edu.tw"/>
                 </Col>
                 <Col>
-                    <MemberCard imgSrc="../images/members/derek.png" name="廖聿鋆｜碩一" text="計算語言學、計算語意學、文本分析、資料科學"
+                    <MemberCard imgSrc="../images/members/derek.png" name="廖聿鋆｜碩二" text="計算語言學、計算語意學、文本分析、資料科學"
                     mail = "mailto:r09142002@ntu.edu.tw"/>
                 </Col>
                 
