@@ -104,7 +104,7 @@ function App() {
             </Col>
 
             <Col>
-              <Description imgSrc="../images/text_analytics.png" Name="資料科學與文本分析" Content="利用機器學習、深度學習進行文本分析和語言的多模態觀察" />
+              <Description imgSrc="../public/images/text_analytics.png" Name="資料科學與文本分析" Content="利用機器學習、深度學習進行文本分析和語言的多模態觀察" />
             </Col>
           </Row>
 
